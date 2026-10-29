@@ -1,0 +1,98 @@
+{
+  "india": [
+    {
+      "name": "iCall",
+      "number": "9152987821",
+      "hours": "Mon–Sat 8am–10pm",
+      "description": "Psychosocial helpline by TISS Mumbai"
+    },
+    {
+      "name": "Vandrevala Foundation",
+      "number": "1860-2662-345",
+      "hours": "24/7",
+      "description": "Free mental health helpline"
+    },
+    {
+      "name": "Snehi",
+      "number": "044-24640050",
+      "hours": "24/7",
+      "description": "Emotional support and crisis intervention"
+    },
+    {
+      "name": "Aasra",
+      "number": "9820466627",
+      "hours": "24/7",
+      "description": "Crisis intervention and suicide prevention"
+    }
+  ],
+  "usa": [
+    {
+      "name": "988 Suicide & Crisis Lifeline",
+      "number": "988",
+      "hours": "24/7",
+      "description": "Call or text 988 — free and confidential"
+    },
+    {
+      "name": "Crisis Text Line",
+      "number": "Text HOME to 741741",
+      "hours": "24/7",
+      "description": "Free crisis counseling via text"
+    },
+    {
+      "name": "NAMI HelpLine",
+      "number": "1-800-950-6264",
+      "hours": "Mon–Fri 10am–10pm ET",
+      "description": "National Alliance on Mental Illness"
+    }
+  ],
+  "uk": [
+    {
+      "name": "Samaritans",
+      "number": "116 123",
+      "hours": "24/7",
+      "description": "Free, confidential emotional support"
+    },
+    {
+      "name": "CALM",
+      "number": "0800 58 58 58",
+      "hours": "5pm–midnight daily",
+      "description": "Campaign Against Living Miserably"
+    },
+    {
+      "name": "Mind Infoline",
+      "number": "0300 123 3393",
+      "hours": "Mon–Fri 9am–6pm",
+      "description": "Mental health information and support"
+    }
+  ],
+  "australia": [
+    {
+      "name": "Lifeline",
+      "number": "13 11 14",
+      "hours": "24/7",
+      "description": "Crisis support and suicide prevention"
+    },
+    {
+      "name": "Beyond Blue",
+      "number": "1300 22 4636",
+      "hours": "24/7",
+      "description": "Anxiety, depression and suicide prevention"
+    }
+  ],
+  "international": [
+    {
+      "name": "International Association for Suicide Prevention",
+      "number": "",
+      "url": "https://www.iasp.info/resources/Crisis_Centres/",
+      "hours": "Varies by country",
+      "description": "Directory of crisis centers worldwide"
+    },
+    {
+      "name": "Befrienders Worldwide",
+      "number": "",
+      "url": "https://www.befrienders.org",
+      "hours": "Varies by country",
+      "description": "Emotional support worldwide"
+    }
+  ]
+}

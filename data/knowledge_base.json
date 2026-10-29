@@ -1,0 +1,86 @@
+[
+  {
+    "id": "mh_001",
+    "category": "depression",
+    "title": "Understanding Depression",
+    "content": "Depression is a common and serious medical illness that negatively affects how you feel, the way you think and how you act. Feelings of sadness, loss of interest, fatigue, changes in appetite, difficulty concentrating, and feelings of worthlessness are common symptoms. Depression is treatable — up to 80-90% of people respond positively to treatment.",
+    "tags": ["depression", "sadness", "hopeless", "worthless", "no energy", "can't sleep", "appetite"]
+  },
+  {
+    "id": "mh_002",
+    "category": "anxiety",
+    "title": "Coping with Anxiety",
+    "content": "Anxiety disorders are the most common mental health concern. Symptoms include excessive worry, restlessness, fatigue, difficulty concentrating, irritability, muscle tension, and sleep disturbances. Evidence-based techniques include deep breathing (4-7-8 technique), progressive muscle relaxation, grounding exercises (5-4-3-2-1 senses), and cognitive restructuring.",
+    "tags": ["anxiety", "worry", "panic", "fear", "overwhelmed", "stressed", "nervous", "restless"]
+  },
+  {
+    "id": "mh_003",
+    "category": "mindfulness",
+    "title": "Mindfulness for Mental Wellness",
+    "content": "Mindfulness is the practice of being fully present and aware in the current moment without judgment. Regular mindfulness practice can reduce stress, anxiety, and depression. Start with 5 minutes of focused breathing: inhale for 4 counts, hold for 4, exhale for 6. Apps like Headspace and Insight Timer can guide beginners.",
+    "tags": ["mindfulness", "meditation", "breathing", "calm", "present", "awareness", "stress relief"]
+  },
+  {
+    "id": "mh_004",
+    "category": "crisis",
+    "title": "Recognizing a Mental Health Crisis",
+    "content": "A mental health crisis can include suicidal thoughts, self-harm, severe agitation, psychosis, or inability to care for oneself. Warning signs: talking about wanting to die, feeling like a burden, withdrawing from activities, giving away possessions, saying goodbyes. If you or someone you know is in crisis, contact a helpline immediately.",
+    "tags": ["crisis", "suicide", "self-harm", "emergency", "danger", "hopeless", "end life", "kill myself"]
+  },
+  {
+    "id": "mh_005",
+    "category": "self_care",
+    "title": "Self-Care Strategies",
+    "content": "Self-care is essential for mental wellness. Key practices: regular sleep schedule (7-9 hours), balanced nutrition, daily physical movement (even a 20-min walk helps), social connection, limiting alcohol and caffeine, journaling feelings, engaging in hobbies, and setting healthy boundaries. Small consistent actions compound into significant wellbeing improvements.",
+    "tags": ["self-care", "sleep", "exercise", "nutrition", "habits", "wellbeing", "routine", "balance"]
+  },
+  {
+    "id": "mh_006",
+    "category": "support",
+    "title": "How to Support Someone in Distress",
+    "content": "If someone you care about is struggling: listen without judgment, ask directly if they are thinking about suicide (this does not increase risk — it opens conversation), avoid minimizing their feelings, stay with them if they are in immediate danger, help them connect to professional support. Say: 'I hear you. I care about you. You are not alone.'",
+    "tags": ["support", "help someone", "listening", "friend", "family", "care", "intervention"]
+  },
+  {
+    "id": "mh_007",
+    "category": "stress",
+    "title": "Stress Management Techniques",
+    "content": "Chronic stress increases the risk of anxiety, depression, and burnout. Effective stress management: identify and reduce stressors where possible, use time-blocking and prioritization, practice relaxation techniques, engage in regular exercise, build a support network, seek professional counseling if stress is persistent. Remember: asking for help is strength, not weakness.",
+    "tags": ["stress", "burnout", "overwhelmed", "pressure", "work stress", "tired", "exhausted"]
+  },
+  {
+    "id": "mh_008",
+    "category": "trauma",
+    "title": "Understanding Trauma and PTSD",
+    "content": "Trauma is the response to a deeply distressing or disturbing event. Symptoms may include flashbacks, nightmares, severe anxiety, intrusive thoughts, and emotional numbness. PTSD (Post-Traumatic Stress Disorder) is a recognized condition requiring professional treatment — therapies like EMDR and trauma-focused CBT are highly effective.",
+    "tags": ["trauma", "ptsd", "flashback", "abuse", "nightmares", "intrusive thoughts", "fear", "unsafe"]
+  },
+  {
+    "id": "mh_009",
+    "category": "loneliness",
+    "title": "Overcoming Loneliness and Isolation",
+    "content": "Loneliness is a significant risk factor for depression and anxiety. Strategies: reach out to one person today (a text counts), join community groups aligned with your interests, volunteer work, seek online communities for shared struggles, consider therapy to explore underlying patterns. Connection is a fundamental human need — you deserve it.",
+    "tags": ["lonely", "alone", "isolated", "no friends", "no one cares", "disconnected", "abandoned"]
+  },
+  {
+    "id": "mh_010",
+    "category": "professional_help",
+    "title": "When and How to Seek Professional Help",
+    "content": "Signs it's time for professional support: persistent sadness or anxiety (2+ weeks), difficulty functioning at work or in relationships, thoughts of self-harm, substance use to cope, feeling like you can't manage alone. How to start: talk to your primary care doctor, search therapist directories (Psychology Today, BetterHelp), or call a mental health helpline for a referral.",
+    "tags": ["therapy", "professional help", "counselor", "psychiatrist", "medication", "treatment", "diagnosis"]
+  },
+  {
+    "id": "mh_011",
+    "category": "crisis",
+    "title": "Warning Signs of Suicidal Thinking",
+    "content": "Key warning signs: expressing hopelessness about the future, talking about being a burden, withdrawing from loved ones, increased substance use, extreme mood changes, talking about wanting to die or kill oneself, researching methods, giving away prized possessions. These signals require immediate attention — do not leave the person alone. Call a crisis line.",
+    "tags": ["suicide warning", "suicidal thoughts", "hopeless", "burden", "withdrawn", "giving away things", "goodbye"]
+  },
+  {
+    "id": "mh_012",
+    "category": "coping",
+    "title": "Healthy Coping Mechanisms",
+    "content": "Healthy coping strategies: physical activity (releases endorphins), creative expression (art, music, writing), talking to a trusted friend, grounding techniques (hold an ice cube, name 5 blue things you see), journaling, nature walks, structured routine, voluntary helping others. Avoid: alcohol, substance use, isolation, suppressing emotions.",
+    "tags": ["coping", "techniques", "grounding", "exercise", "journaling", "creativity", "strategies"]
+  }
+]
